@@ -1,0 +1,4 @@
+Node.js is a javascript runtime built on googles open source v8 javascript engine, the browser is javascript runtime
+Node applications are fast and scalable, node.js is single threaded, its based on an event driven non blocking  i-o model
+I cant use node to build heavy server-side application(CPU intensive)
+Node.js is built around the concept of modules, all kinds of additional functionality are stored in a module
